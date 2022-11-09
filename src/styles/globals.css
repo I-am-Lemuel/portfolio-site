@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Nerd_Font';
+    src: url('/fonts/Nerd_Font.ttf');
+    font-display: swap;
+}
+
+div {
+    font-family: 'Nerd_Font';
+}
